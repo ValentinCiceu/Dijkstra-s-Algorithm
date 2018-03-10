@@ -1,2 +1,3 @@
-# Dijkstra-s-Algorithm
-My take in Dijkstra's Algorithm 
+# Dijkstra's Algorithm
+
+This is my take of the Dijkstra's Algorithm (Shortest path) using adjacency matrix.
